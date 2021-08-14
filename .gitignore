@@ -136,3 +136,5 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+company_code_db/db_endpoint/db.ini
